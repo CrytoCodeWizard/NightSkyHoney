@@ -13,7 +13,7 @@
                           
 - 🔭 Working on ... Digital Twins Management, IoT Management and Blockchain Development 
 - 🌱 Learning ... CakePHP / React.js / Solidity / Java / Python / JavaScript / Arduino / Cpp
-- 📫 Reach me: ... yongchanghe8@gmail.com
+- 📫 Reach me: ... starrynightskyhoney@gmail.com
  
   
 <!-- #### PORTFOLIO
@@ -43,31 +43,40 @@
   
   
 <h4 align="left">LANGUAGES & TOOLS:</h4>
-<p align="left"> 
-   <a href="https://solidity.readthedocs.io/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>   
-  <a href="https://www.programiz.com/c-programming" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
-    <a href="https://www.java.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://solidity.readthedocs.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> 
+  </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="css3" width="40" height="40"/> </a>
-  </p>
-  
-  <p align="left"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="css3" width="40" height="40"/> 
+  </a>
+</p>
+
+<p align="left">
      <a href="https://ethereum.org/en/" target="_blank"> 
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="solidity" width="40" height="40"/> </a> 
      <a href="https://remix.ethereum.org/" target="_blank"> 
@@ -112,20 +121,8 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp; </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>&nbsp; </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>&nbsp; </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>&nbsp; </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>&nbsp; </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> </p> -->
-
-
-#### ETHEREUM TESTNET FAUCETS
-
-[Goerli Testnet faucets](https://faucetlink.to/goerli) / [Chainlink LINK faucet](https://faucets.chain.link/)
-
-<h4 align="left">SUMMARY</h3>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyc0812&show_icons=true&include_all_commits=fale&theme=buefy&hide_border=true" alt="Yongchang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyc0812&layout=compact&langs_count=5&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyc0812&" alt="hyc0812" /></p>
 
 
 <!--busy eating--> 
