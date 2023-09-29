@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyc0812&label=Profile%20views&color=0e75b6&style=flat" alt="hyc0812" /> </p> 
 
 <h1 align="center">Hi 👋, I'm David Teo</h1>
-<h3 align="center">An IoT and BlockChain learner; a full-stack web developer; Interested in Cloud; Love React & Angular...</h3>
+<h3 align="center">A full-stack web developer; An IoT and BlockChain learner; Interested in Cloud; Love React & Laravel</h3>
   
 #### ABOUT ME     
                                     
@@ -46,6 +46,9 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img class="w-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="52">
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
