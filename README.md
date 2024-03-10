@@ -20,16 +20,6 @@
 
 [YongLearner](http://yonglearner.co) -->
 
-#### CERTIFICATES  
-
-[Google Cloud Certified: Professional Data Engineer](https://google.accredible.com/578227f5-2200-497c-8836-3472d5bce7a7?key=7f6750d6386fe52fb4f69bd08a0d57cd1f37c72974d91e446b242d378c5136aa)
-
-[Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/22299b4c-dbee-4f4b-b217-8aced76323fa)
-
-
-[Blockchain Council Certified: Blockchain Developer](https://www.credential.net/b576f7b6-950a-49a8-a669-aaf08160002b#gs.yk6k3i)
-
-  
 <h4 align="left">LANGUAGES & TOOLS:</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> 
